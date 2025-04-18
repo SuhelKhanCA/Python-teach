@@ -3,7 +3,7 @@ marks = [25, 30, 29]
 
 # P = 30
 
-marks[0] = 30
+marks[0] = 30 # mutable Data structure
 
 print(marks)
 
