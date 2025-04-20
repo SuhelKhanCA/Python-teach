@@ -4,4 +4,6 @@ dt = {
     "gender": "male"
 }
 
+dt["addr"] = "Kushinagar"
+
 print(dt)
