@@ -13,3 +13,4 @@ names2 = f.readlines()
 print(names2)
 
 
+f.close()
