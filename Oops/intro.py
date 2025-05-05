@@ -36,4 +36,4 @@ suhel.walk()
 
 # HW
 
-# Car -> brand, model, speed : 2 objects
+# Car -> brand, model, speed -> 2 objects
